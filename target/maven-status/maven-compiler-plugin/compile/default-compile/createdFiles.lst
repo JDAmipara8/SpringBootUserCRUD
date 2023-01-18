@@ -1,0 +1,9 @@
+com\springBootApk\services\UserService.class
+com\springBootApk\entities\User.class
+com\springBootApk\model\RequestPayload.class
+com\springBootApk\Application.class
+com\springBootApk\entities\Contact.class
+com\springBootApk\repo\UserRepository.class
+com\springBootApk\controller\TestController1.class
+com\springBootApk\controller\UserController.class
+com\springBootApk\model\ResponseTransfer.class
